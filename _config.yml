@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Duc_v.jpg"
   name             : "KHUAT VAN DUC"
   pronouns         : # example: "she/her"  
   bio              : "PhD student"
-  location         : "  South Korea"
+  location         : " South Korea"
   employer         : " Sungkyunkwan University"
   uri              : # URL
   email            : "duckv@g.skku.edu" 
