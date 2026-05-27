@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Duc_v.jpg"
+  avatar           : "Duc_v.png"
   name             : "KHUAT VAN DUC"
   pronouns         : # example: "she/her"  
   bio              : "PhD student"
